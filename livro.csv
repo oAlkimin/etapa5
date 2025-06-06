@@ -1,0 +1,12 @@
+"id_livro";"nome";"autor";"editora";"dataLancamento";"statusEmprestimo";"conservacaoLivro";"idioma";"categoria_id_categoria"
+1;"Ea eum";"Camila Nunes";"da Cruz";"2022-12-09";"Disponível";"Bom";"Espanhol";2
+2;"Maxime sequi";"Sr. Pedro Henrique Caldeira";"Moraes Ltda.";"2018-03-03";"Reservado";"Bom";"Português";3
+3;"Repellat";"Calebe Moreira";"Pires - EI";"2018-09-22";"Reservado";"Ruim";"Espanhol";6
+4;"Officiis earum";"Sr. Ian da Costa";"Correia";"2022-06-30";"Reservado";"Usado";"Português";5
+5;"Itaque facere";"Luana Fogaça";"Ribeiro Fernandes S.A.";"2023-03-25";"Emprestado";"Usado";"Espanhol";3
+6;"Vero ipsa";"Sophia Dias";"Freitas";"2025-01-04";"Disponível";"Usado";"Português";5
+7;"Voluptate";"Gustavo Henrique Oliveira";"Gonçalves e Filhos";"2022-10-28";"Disponível";"Usado";"Português";3
+8;"Incidunt";"Carlos Eduardo Azevedo";"Azevedo";"2015-05-14";"Reservado";"Novo";"Português";2
+9;"Quod totam vel";"Ian Silveira";"Cardoso";"2020-10-12";"Disponível";"Ruim";"Espanhol";1
+10;"Ipsa in placeat";"Clarice Fernandes";"Pinto";"2019-04-20";"Disponível";"Ruim";"Português";2
+11;"Pai Rico Pai Pobre";"Robert Kiyosakii";"Gomes";"1997-01-01";"Emprestado";"Usado";"Inglês";7
